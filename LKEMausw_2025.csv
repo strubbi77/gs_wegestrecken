@@ -1,0 +1,791 @@
+gem_name,ortsteil,landuse,triptime,size
+Bahlingen,kein Ortsteil,cemetery,10.0,1
+Bahlingen,kein Ortsteil,farmyard,15.0,3
+Bahlingen,kein Ortsteil,farmyard,20.0,2
+Bahlingen,kein Ortsteil,farmyard,25.0,2
+Bahlingen,kein Ortsteil,farmyard,30.0,1
+Bahlingen,kein Ortsteil,industrial,20.0,1
+Bahlingen,kein Ortsteil,industrial,30.0,20
+Bahlingen,kein Ortsteil,industrial,40.0,47
+Bahlingen,kein Ortsteil,orchard,25.0,1
+Bahlingen,kein Ortsteil,railway,15.0,2
+Bahlingen,kein Ortsteil,residential,5.0,53
+Bahlingen,kein Ortsteil,residential,10.0,253
+Bahlingen,kein Ortsteil,residential,15.0,248
+Bahlingen,kein Ortsteil,residential,20.0,200
+Bahlingen,kein Ortsteil,residential,25.0,112
+Bahlingen,kein Ortsteil,residential,30.0,139
+Bahlingen,kein Ortsteil,residential,40.0,61
+Bahlingen,kein Ortsteil,unbekannt,40.0,1
+Biederbach,kein Ortsteil,cemetery,5.0,1
+Biederbach,kein Ortsteil,commercial,25.0,6
+Biederbach,kein Ortsteil,farmyard,10.0,3
+Biederbach,kein Ortsteil,farmyard,15.0,1
+Biederbach,kein Ortsteil,farmyard,20.0,5
+Biederbach,kein Ortsteil,farmyard,25.0,10
+Biederbach,kein Ortsteil,farmyard,30.0,13
+Biederbach,kein Ortsteil,farmyard,40.0,26
+Biederbach,kein Ortsteil,farmyard,120.0,74
+Biederbach,kein Ortsteil,forest,120.0,2
+Biederbach,kein Ortsteil,industrial,40.0,2
+Biederbach,kein Ortsteil,meadow,30.0,1
+Biederbach,kein Ortsteil,meadow,120.0,1
+Biederbach,kein Ortsteil,recreation_ground,30.0,1
+Biederbach,kein Ortsteil,residential,5.0,49
+Biederbach,kein Ortsteil,residential,10.0,40
+Biederbach,kein Ortsteil,residential,15.0,9
+Biederbach,kein Ortsteil,residential,20.0,2
+Biederbach,kein Ortsteil,residential,25.0,24
+Biederbach,kein Ortsteil,residential,30.0,25
+Biederbach,kein Ortsteil,residential,40.0,68
+Biederbach,kein Ortsteil,residential,120.0,132
+Biederbach,kein Ortsteil,unbekannt,120.0,1
+Denzlingen,kein Ortsteil,allotments,120.0,2
+Denzlingen,kein Ortsteil,cemetery,10.0,1
+Denzlingen,kein Ortsteil,commercial,20.0,1
+Denzlingen,kein Ortsteil,commercial,30.0,20
+Denzlingen,kein Ortsteil,commercial,40.0,25
+Denzlingen,kein Ortsteil,farmland,15.0,1
+Denzlingen,kein Ortsteil,farmyard,20.0,2
+Denzlingen,kein Ortsteil,farmyard,25.0,1
+Denzlingen,kein Ortsteil,farmyard,40.0,8
+Denzlingen,kein Ortsteil,farmyard,120.0,3
+Denzlingen,kein Ortsteil,forest,15.0,1
+Denzlingen,kein Ortsteil,greenhouse_horticulture,10.0,1
+Denzlingen,kein Ortsteil,greenhouse_horticulture,15.0,1
+Denzlingen,kein Ortsteil,industrial,15.0,9
+Denzlingen,kein Ortsteil,industrial,20.0,15
+Denzlingen,kein Ortsteil,industrial,25.0,38
+Denzlingen,kein Ortsteil,industrial,30.0,27
+Denzlingen,kein Ortsteil,orchard,25.0,1
+Denzlingen,kein Ortsteil,railway,10.0,2
+Denzlingen,kein Ortsteil,railway,15.0,1
+Denzlingen,kein Ortsteil,recreation_ground,20.0,1
+Denzlingen,kein Ortsteil,recreation_ground,30.0,1
+Denzlingen,kein Ortsteil,recreation_ground,40.0,4
+Denzlingen,kein Ortsteil,residential,5.0,152
+Denzlingen,kein Ortsteil,residential,10.0,453
+Denzlingen,kein Ortsteil,residential,15.0,914
+Denzlingen,kein Ortsteil,residential,20.0,544
+Denzlingen,kein Ortsteil,residential,25.0,330
+Denzlingen,kein Ortsteil,residential,30.0,118
+Denzlingen,kein Ortsteil,residential,40.0,13
+Denzlingen,kein Ortsteil,residential,120.0,2
+Denzlingen,kein Ortsteil,unbekannt,5.0,4
+Denzlingen,kein Ortsteil,unbekannt,10.0,4
+Denzlingen,kein Ortsteil,unbekannt,15.0,4
+Denzlingen,kein Ortsteil,unbekannt,20.0,1
+Denzlingen,kein Ortsteil,unbekannt,30.0,1
+Elzach,kein Ortsteil,cemetery,15.0,1
+Elzach,kein Ortsteil,commercial,20.0,5
+Elzach,kein Ortsteil,commercial,25.0,6
+Elzach,kein Ortsteil,commercial,30.0,1
+Elzach,kein Ortsteil,commercial,120.0,1
+Elzach,kein Ortsteil,farmyard,10.0,1
+Elzach,kein Ortsteil,farmyard,15.0,2
+Elzach,kein Ortsteil,farmyard,20.0,6
+Elzach,kein Ortsteil,farmyard,25.0,7
+Elzach,kein Ortsteil,farmyard,30.0,8
+Elzach,kein Ortsteil,farmyard,40.0,9
+Elzach,kein Ortsteil,farmyard,120.0,118
+Elzach,kein Ortsteil,industrial,15.0,6
+Elzach,kein Ortsteil,industrial,20.0,9
+Elzach,kein Ortsteil,industrial,25.0,9
+Elzach,kein Ortsteil,industrial,30.0,3
+Elzach,kein Ortsteil,industrial,40.0,4
+Elzach,kein Ortsteil,industrial,120.0,3
+Elzach,kein Ortsteil,meadow,120.0,13
+Elzach,kein Ortsteil,railway,10.0,1
+Elzach,kein Ortsteil,recreation_ground,10.0,1
+Elzach,kein Ortsteil,recreation_ground,20.0,2
+Elzach,kein Ortsteil,recreation_ground,40.0,2
+Elzach,kein Ortsteil,recreation_ground,120.0,1
+Elzach,kein Ortsteil,residential,5.0,168
+Elzach,kein Ortsteil,residential,10.0,325
+Elzach,kein Ortsteil,residential,15.0,259
+Elzach,kein Ortsteil,residential,20.0,187
+Elzach,kein Ortsteil,residential,25.0,230
+Elzach,kein Ortsteil,residential,30.0,55
+Elzach,kein Ortsteil,residential,40.0,76
+Elzach,kein Ortsteil,residential,120.0,530
+Elzach,kein Ortsteil,retail,10.0,6
+Elzach,kein Ortsteil,retail,15.0,5
+Elzach,kein Ortsteil,retail,20.0,4
+Elzach,kein Ortsteil,retail,30.0,2
+Elzach,kein Ortsteil,unbekannt,15.0,1
+Elzach,kein Ortsteil,unbekannt,25.0,2
+Elzach,kein Ortsteil,unbekannt,120.0,19
+Emmendingen,Emmendingen (Kernstadt),commercial,15.0,8
+Emmendingen,Emmendingen (Kernstadt),commercial,20.0,18
+Emmendingen,Emmendingen (Kernstadt),commercial,25.0,36
+Emmendingen,Emmendingen (Kernstadt),commercial,30.0,66
+Emmendingen,Emmendingen (Kernstadt),commercial,40.0,51
+Emmendingen,Emmendingen (Kernstadt),farmyard,40.0,6
+Emmendingen,Emmendingen (Kernstadt),greenhouse_horticulture,20.0,1
+Emmendingen,Emmendingen (Kernstadt),industrial,15.0,2
+Emmendingen,Emmendingen (Kernstadt),industrial,20.0,28
+Emmendingen,Emmendingen (Kernstadt),industrial,25.0,16
+Emmendingen,Emmendingen (Kernstadt),industrial,30.0,1
+Emmendingen,Emmendingen (Kernstadt),orchard,20.0,1
+Emmendingen,Emmendingen (Kernstadt),railway,15.0,2
+Emmendingen,Emmendingen (Kernstadt),recreation_ground,20.0,4
+Emmendingen,Emmendingen (Kernstadt),recreation_ground,25.0,2
+Emmendingen,Emmendingen (Kernstadt),residential,5.0,224
+Emmendingen,Emmendingen (Kernstadt),residential,10.0,961
+Emmendingen,Emmendingen (Kernstadt),residential,15.0,1337
+Emmendingen,Emmendingen (Kernstadt),residential,20.0,704
+Emmendingen,Emmendingen (Kernstadt),residential,25.0,88
+Emmendingen,Emmendingen (Kernstadt),residential,30.0,19
+Emmendingen,Emmendingen (Kernstadt),residential,120.0,1
+Emmendingen,Emmendingen (Kernstadt),retail,5.0,2
+Emmendingen,Emmendingen (Kernstadt),retail,10.0,4
+Emmendingen,Emmendingen (Kernstadt),retail,20.0,1
+Emmendingen,Emmendingen (Kernstadt),unbekannt,5.0,1
+Emmendingen,Emmendingen (Kernstadt),unbekannt,10.0,4
+Emmendingen,Emmendingen (Kernstadt),unbekannt,15.0,3
+Emmendingen,Emmendingen (Kernstadt),unbekannt,20.0,12
+Emmendingen,Emmendingen (Kernstadt),unbekannt,25.0,3
+Emmendingen,Emmendingen (Kernstadt),unbekannt,40.0,1
+Emmendingen,Kollmarsreute,cemetery,15.0,1
+Emmendingen,Kollmarsreute,construction,5.0,1
+Emmendingen,Kollmarsreute,farmland,15.0,1
+Emmendingen,Kollmarsreute,farmyard,25.0,1
+Emmendingen,Kollmarsreute,greenhouse_horticulture,15.0,2
+Emmendingen,Kollmarsreute,residential,5.0,149
+Emmendingen,Kollmarsreute,residential,10.0,205
+Emmendingen,Kollmarsreute,residential,15.0,76
+Emmendingen,Kollmarsreute,residential,20.0,112
+Emmendingen,Kollmarsreute,residential,25.0,14
+Emmendingen,Kollmarsreute,residential,30.0,1
+Emmendingen,Kollmarsreute,residential,40.0,2
+Emmendingen,Kollmarsreute,unbekannt,10.0,1
+Emmendingen,Maleck,farmyard,40.0,3
+Emmendingen,Maleck,residential,30.0,5
+Emmendingen,Maleck,residential,40.0,87
+Emmendingen,Maleck,residential,120.0,28
+Emmendingen,Mundingen,commercial,40.0,44
+Emmendingen,Mundingen,commercial,120.0,25
+Emmendingen,Mundingen,farmyard,40.0,1
+Emmendingen,Mundingen,farmyard,120.0,5
+Emmendingen,Mundingen,meadow,120.0,1
+Emmendingen,Mundingen,public,40.0,1
+Emmendingen,Mundingen,public,120.0,1
+Emmendingen,Mundingen,recreation_ground,40.0,1
+Emmendingen,Mundingen,residential,40.0,242
+Emmendingen,Mundingen,residential,120.0,253
+Emmendingen,Mundingen,unbekannt,40.0,3
+Emmendingen,Mundingen,unbekannt,120.0,2
+Emmendingen,Wasser,industrial,25.0,2
+Emmendingen,Wasser,residential,5.0,86
+Emmendingen,Wasser,residential,10.0,166
+Emmendingen,Wasser,residential,15.0,107
+Emmendingen,Wasser,residential,20.0,56
+Emmendingen,Wasser,residential,25.0,12
+Emmendingen,Wasser,unbekannt,15.0,3
+Emmendingen,Windenreute,cemetery,20.0,2
+Emmendingen,Windenreute,industrial,20.0,2
+Emmendingen,Windenreute,recreation_ground,15.0,1
+Emmendingen,Windenreute,residential,5.0,116
+Emmendingen,Windenreute,residential,10.0,195
+Emmendingen,Windenreute,residential,15.0,130
+Emmendingen,Windenreute,residential,20.0,47
+Emmendingen,Windenreute,residential,25.0,1
+Emmendingen,Windenreute,unbekannt,15.0,1
+Emmendingen,kein Ortsteil,commercial,40.0,2
+Endingen,Kiechlinsbergen,residential,5.0,140
+Endingen,Kiechlinsbergen,residential,10.0,120
+Endingen,Kiechlinsbergen,residential,15.0,44
+Endingen,Kiechlinsbergen,residential,25.0,5
+Endingen,kein Ortsteil,cemetery,20.0,1
+Endingen,kein Ortsteil,commercial,15.0,1
+Endingen,kein Ortsteil,commercial,20.0,15
+Endingen,kein Ortsteil,commercial,25.0,5
+Endingen,kein Ortsteil,commercial,40.0,15
+Endingen,kein Ortsteil,commercial,120.0,8
+Endingen,kein Ortsteil,construction,25.0,1
+Endingen,kein Ortsteil,construction,30.0,3
+Endingen,kein Ortsteil,depot,20.0,1
+Endingen,kein Ortsteil,farmyard,15.0,2
+Endingen,kein Ortsteil,farmyard,20.0,2
+Endingen,kein Ortsteil,farmyard,25.0,2
+Endingen,kein Ortsteil,farmyard,30.0,1
+Endingen,kein Ortsteil,farmyard,40.0,13
+Endingen,kein Ortsteil,farmyard,120.0,15
+Endingen,kein Ortsteil,greenhouse_horticulture,40.0,1
+Endingen,kein Ortsteil,industrial,25.0,3
+Endingen,kein Ortsteil,industrial,30.0,46
+Endingen,kein Ortsteil,industrial,40.0,101
+Endingen,kein Ortsteil,industrial,120.0,37
+Endingen,kein Ortsteil,railway,20.0,4
+Endingen,kein Ortsteil,recreation_ground,15.0,4
+Endingen,kein Ortsteil,recreation_ground,20.0,2
+Endingen,kein Ortsteil,recreation_ground,25.0,3
+Endingen,kein Ortsteil,recreation_ground,30.0,3
+Endingen,kein Ortsteil,residential,5.0,55
+Endingen,kein Ortsteil,residential,10.0,348
+Endingen,kein Ortsteil,residential,15.0,413
+Endingen,kein Ortsteil,residential,20.0,294
+Endingen,kein Ortsteil,residential,25.0,381
+Endingen,kein Ortsteil,residential,30.0,471
+Endingen,kein Ortsteil,residential,40.0,262
+Endingen,kein Ortsteil,residential,120.0,129
+Endingen,kein Ortsteil,unbekannt,120.0,1
+Endingen,kein Ortsteil,vineyard,25.0,1
+Forchheim,kein Ortsteil,commercial,120.0,2
+Forchheim,kein Ortsteil,farmyard,120.0,17
+Forchheim,kein Ortsteil,grass,120.0,1
+Forchheim,kein Ortsteil,residential,120.0,438
+Forchheim,kein Ortsteil,unbekannt,120.0,2
+Freiamt,kein Ortsteil,cemetery,120.0,1
+Freiamt,kein Ortsteil,farmland,120.0,1
+Freiamt,kein Ortsteil,farmyard,15.0,2
+Freiamt,kein Ortsteil,farmyard,20.0,5
+Freiamt,kein Ortsteil,farmyard,25.0,9
+Freiamt,kein Ortsteil,farmyard,30.0,2
+Freiamt,kein Ortsteil,farmyard,40.0,17
+Freiamt,kein Ortsteil,farmyard,120.0,136
+Freiamt,kein Ortsteil,forest,120.0,2
+Freiamt,kein Ortsteil,grass,120.0,2
+Freiamt,kein Ortsteil,industrial,120.0,6
+Freiamt,kein Ortsteil,meadow,120.0,8
+Freiamt,kein Ortsteil,orchard,20.0,1
+Freiamt,kein Ortsteil,recreation_ground,10.0,1
+Freiamt,kein Ortsteil,residential,5.0,1
+Freiamt,kein Ortsteil,residential,10.0,12
+Freiamt,kein Ortsteil,residential,15.0,49
+Freiamt,kein Ortsteil,residential,20.0,27
+Freiamt,kein Ortsteil,residential,25.0,14
+Freiamt,kein Ortsteil,residential,30.0,112
+Freiamt,kein Ortsteil,residential,40.0,147
+Freiamt,kein Ortsteil,residential,120.0,599
+Freiamt,kein Ortsteil,unbekannt,5.0,1
+Freiamt,kein Ortsteil,unbekannt,10.0,1
+Freiamt,kein Ortsteil,unbekannt,120.0,11
+Gutach im Breisgau,Bleibach,cemetery,120.0,1
+Gutach im Breisgau,Bleibach,commercial,30.0,3
+Gutach im Breisgau,Bleibach,commercial,40.0,1
+Gutach im Breisgau,Bleibach,farmyard,120.0,4
+Gutach im Breisgau,Bleibach,industrial,30.0,8
+Gutach im Breisgau,Bleibach,industrial,40.0,3
+Gutach im Breisgau,Bleibach,industrial,120.0,3
+Gutach im Breisgau,Bleibach,railway,40.0,2
+Gutach im Breisgau,Bleibach,residential,20.0,5
+Gutach im Breisgau,Bleibach,residential,25.0,19
+Gutach im Breisgau,Bleibach,residential,30.0,88
+Gutach im Breisgau,Bleibach,residential,40.0,263
+Gutach im Breisgau,Bleibach,residential,120.0,100
+Gutach im Breisgau,Gutach,commercial,20.0,1
+Gutach im Breisgau,Gutach,farmyard,20.0,7
+Gutach im Breisgau,Gutach,farmyard,25.0,6
+Gutach im Breisgau,Gutach,farmyard,30.0,3
+Gutach im Breisgau,Gutach,farmyard,40.0,2
+Gutach im Breisgau,Gutach,industrial,5.0,1
+Gutach im Breisgau,Gutach,industrial,10.0,6
+Gutach im Breisgau,Gutach,industrial,20.0,1
+Gutach im Breisgau,Gutach,industrial,25.0,3
+Gutach im Breisgau,Gutach,railway,15.0,1
+Gutach im Breisgau,Gutach,recreation_ground,15.0,1
+Gutach im Breisgau,Gutach,recreation_ground,20.0,2
+Gutach im Breisgau,Gutach,residential,5.0,121
+Gutach im Breisgau,Gutach,residential,10.0,141
+Gutach im Breisgau,Gutach,residential,15.0,54
+Gutach im Breisgau,Gutach,residential,20.0,25
+Gutach im Breisgau,Gutach,residential,25.0,13
+Gutach im Breisgau,Gutach,residential,30.0,5
+Gutach im Breisgau,Gutach,unbekannt,30.0,1
+Gutach im Breisgau,Siegelau,farmland,120.0,2
+Gutach im Breisgau,Siegelau,farmyard,40.0,4
+Gutach im Breisgau,Siegelau,farmyard,120.0,76
+Gutach im Breisgau,Siegelau,forest,120.0,1
+Gutach im Breisgau,Siegelau,meadow,120.0,2
+Gutach im Breisgau,Siegelau,residential,40.0,1
+Gutach im Breisgau,Siegelau,residential,120.0,108
+Gutach im Breisgau,Siegelau,unbekannt,120.0,1
+Gutach im Breisgau,kein Ortsteil,commercial,30.0,1
+Herbolzheim,kein Ortsteil,allotments,25.0,1
+Herbolzheim,kein Ortsteil,commercial,15.0,4
+Herbolzheim,kein Ortsteil,commercial,20.0,8
+Herbolzheim,kein Ortsteil,commercial,25.0,7
+Herbolzheim,kein Ortsteil,commercial,30.0,2
+Herbolzheim,kein Ortsteil,commercial,40.0,1
+Herbolzheim,kein Ortsteil,construction,20.0,1
+Herbolzheim,kein Ortsteil,farmyard,25.0,3
+Herbolzheim,kein Ortsteil,farmyard,40.0,3
+Herbolzheim,kein Ortsteil,farmyard,120.0,5
+Herbolzheim,kein Ortsteil,industrial,10.0,5
+Herbolzheim,kein Ortsteil,industrial,15.0,16
+Herbolzheim,kein Ortsteil,industrial,20.0,26
+Herbolzheim,kein Ortsteil,industrial,25.0,28
+Herbolzheim,kein Ortsteil,industrial,30.0,34
+Herbolzheim,kein Ortsteil,industrial,40.0,32
+Herbolzheim,kein Ortsteil,industrial,120.0,3
+Herbolzheim,kein Ortsteil,recreation_ground,25.0,1
+Herbolzheim,kein Ortsteil,recreation_ground,30.0,2
+Herbolzheim,kein Ortsteil,recreation_ground,40.0,1
+Herbolzheim,kein Ortsteil,residential,5.0,153
+Herbolzheim,kein Ortsteil,residential,10.0,623
+Herbolzheim,kein Ortsteil,residential,15.0,668
+Herbolzheim,kein Ortsteil,residential,20.0,437
+Herbolzheim,kein Ortsteil,residential,25.0,221
+Herbolzheim,kein Ortsteil,residential,30.0,147
+Herbolzheim,kein Ortsteil,residential,40.0,469
+Herbolzheim,kein Ortsteil,residential,120.0,20
+Herbolzheim,kein Ortsteil,retail,15.0,17
+Herbolzheim,kein Ortsteil,unbekannt,20.0,1
+Herbolzheim,kein Ortsteil,unbekannt,25.0,1
+Herbolzheim,kein Ortsteil,unbekannt,30.0,2
+Herbolzheim,kein Ortsteil,unbekannt,40.0,1
+Herbolzheim,kein Ortsteil,unbekannt,120.0,2
+Kenzingen,kein Ortsteil,commercial,15.0,1
+Kenzingen,kein Ortsteil,commercial,20.0,20
+Kenzingen,kein Ortsteil,commercial,25.0,10
+Kenzingen,kein Ortsteil,commercial,30.0,7
+Kenzingen,kein Ortsteil,construction,10.0,1
+Kenzingen,kein Ortsteil,farmyard,15.0,4
+Kenzingen,kein Ortsteil,farmyard,20.0,5
+Kenzingen,kein Ortsteil,farmyard,25.0,2
+Kenzingen,kein Ortsteil,farmyard,30.0,1
+Kenzingen,kein Ortsteil,farmyard,40.0,5
+Kenzingen,kein Ortsteil,farmyard,120.0,2
+Kenzingen,kein Ortsteil,forest,15.0,1
+Kenzingen,kein Ortsteil,greenhouse_horticulture,120.0,1
+Kenzingen,kein Ortsteil,industrial,15.0,8
+Kenzingen,kein Ortsteil,industrial,30.0,7
+Kenzingen,kein Ortsteil,industrial,40.0,27
+Kenzingen,kein Ortsteil,industrial,120.0,31
+Kenzingen,kein Ortsteil,meadow,120.0,3
+Kenzingen,kein Ortsteil,orchard,20.0,1
+Kenzingen,kein Ortsteil,orchard,40.0,1
+Kenzingen,kein Ortsteil,railway,10.0,2
+Kenzingen,kein Ortsteil,recreation_ground,20.0,1
+Kenzingen,kein Ortsteil,recreation_ground,40.0,2
+Kenzingen,kein Ortsteil,recreation_ground,120.0,1
+Kenzingen,kein Ortsteil,residential,5.0,259
+Kenzingen,kein Ortsteil,residential,10.0,723
+Kenzingen,kein Ortsteil,residential,15.0,528
+Kenzingen,kein Ortsteil,residential,20.0,461
+Kenzingen,kein Ortsteil,residential,25.0,421
+Kenzingen,kein Ortsteil,residential,30.0,137
+Kenzingen,kein Ortsteil,residential,40.0,138
+Kenzingen,kein Ortsteil,residential,120.0,114
+Kenzingen,kein Ortsteil,unbekannt,15.0,1
+Kenzingen,kein Ortsteil,unbekannt,120.0,1
+Malterdingen,kein Ortsteil,commercial,120.0,2
+Malterdingen,kein Ortsteil,farmyard,25.0,1
+Malterdingen,kein Ortsteil,farmyard,30.0,2
+Malterdingen,kein Ortsteil,farmyard,40.0,3
+Malterdingen,kein Ortsteil,farmyard,120.0,1
+Malterdingen,kein Ortsteil,industrial,25.0,3
+Malterdingen,kein Ortsteil,industrial,30.0,11
+Malterdingen,kein Ortsteil,industrial,40.0,45
+Malterdingen,kein Ortsteil,industrial,120.0,22
+Malterdingen,kein Ortsteil,railway,40.0,2
+Malterdingen,kein Ortsteil,residential,5.0,83
+Malterdingen,kein Ortsteil,residential,10.0,241
+Malterdingen,kein Ortsteil,residential,15.0,277
+Malterdingen,kein Ortsteil,residential,20.0,181
+Malterdingen,kein Ortsteil,residential,25.0,108
+Malterdingen,kein Ortsteil,retail,20.0,2
+Malterdingen,kein Ortsteil,unbekannt,5.0,4
+Malterdingen,kein Ortsteil,unbekannt,40.0,1
+Reute,kein Ortsteil,cemetery,15.0,1
+Reute,kein Ortsteil,commercial,25.0,18
+Reute,kein Ortsteil,greenhouse_horticulture,10.0,3
+Reute,kein Ortsteil,industrial,15.0,1
+Reute,kein Ortsteil,industrial,20.0,1
+Reute,kein Ortsteil,industrial,25.0,4
+Reute,kein Ortsteil,residential,5.0,73
+Reute,kein Ortsteil,residential,10.0,128
+Reute,kein Ortsteil,residential,15.0,187
+Reute,kein Ortsteil,residential,20.0,265
+Reute,kein Ortsteil,residential,25.0,99
+Reute,kein Ortsteil,residential,30.0,11
+Reute,kein Ortsteil,retail,15.0,2
+Reute,kein Ortsteil,unbekannt,40.0,2
+Rheinhausen,kein Ortsteil,commercial,5.0,4
+Rheinhausen,kein Ortsteil,commercial,10.0,5
+Rheinhausen,kein Ortsteil,commercial,15.0,5
+Rheinhausen,kein Ortsteil,commercial,20.0,18
+Rheinhausen,kein Ortsteil,commercial,25.0,2
+Rheinhausen,kein Ortsteil,commercial,40.0,2
+Rheinhausen,kein Ortsteil,farmyard,40.0,5
+Rheinhausen,kein Ortsteil,farmyard,120.0,1
+Rheinhausen,kein Ortsteil,industrial,40.0,1
+Rheinhausen,kein Ortsteil,residential,5.0,5
+Rheinhausen,kein Ortsteil,residential,10.0,94
+Rheinhausen,kein Ortsteil,residential,15.0,169
+Rheinhausen,kein Ortsteil,residential,20.0,238
+Rheinhausen,kein Ortsteil,residential,25.0,274
+Rheinhausen,kein Ortsteil,residential,30.0,241
+Rheinhausen,kein Ortsteil,residential,40.0,79
+Rheinhausen,kein Ortsteil,unbekannt,120.0,1
+Riegel,kein Ortsteil,allotments,15.0,1
+Riegel,kein Ortsteil,commercial,25.0,3
+Riegel,kein Ortsteil,commercial,40.0,11
+Riegel,kein Ortsteil,farmyard,30.0,3
+Riegel,kein Ortsteil,farmyard,40.0,2
+Riegel,kein Ortsteil,farmyard,120.0,11
+Riegel,kein Ortsteil,grass,30.0,2
+Riegel,kein Ortsteil,greenhouse_horticulture,40.0,1
+Riegel,kein Ortsteil,greenhouse_horticulture,120.0,1
+Riegel,kein Ortsteil,industrial,20.0,6
+Riegel,kein Ortsteil,industrial,25.0,13
+Riegel,kein Ortsteil,industrial,30.0,23
+Riegel,kein Ortsteil,industrial,40.0,26
+Riegel,kein Ortsteil,industrial,120.0,7
+Riegel,kein Ortsteil,orchard,10.0,1
+Riegel,kein Ortsteil,railway,15.0,2
+Riegel,kein Ortsteil,residential,5.0,35
+Riegel,kein Ortsteil,residential,10.0,246
+Riegel,kein Ortsteil,residential,15.0,279
+Riegel,kein Ortsteil,residential,20.0,161
+Riegel,kein Ortsteil,residential,25.0,160
+Riegel,kein Ortsteil,residential,30.0,13
+Riegel,kein Ortsteil,residential,40.0,51
+Riegel,kein Ortsteil,residential,120.0,4
+Riegel,kein Ortsteil,retail,25.0,2
+Riegel,kein Ortsteil,unbekannt,40.0,1
+Riegel,kein Ortsteil,unbekannt,120.0,1
+Sasbach am Kaiserstuhl,Jechtingen,farmyard,40.0,4
+Sasbach am Kaiserstuhl,Jechtingen,farmyard,120.0,6
+Sasbach am Kaiserstuhl,Jechtingen,residential,40.0,56
+Sasbach am Kaiserstuhl,Jechtingen,residential,120.0,290
+Sasbach am Kaiserstuhl,Leiselheim,farmyard,120.0,6
+Sasbach am Kaiserstuhl,Leiselheim,residential,120.0,155
+Sasbach am Kaiserstuhl,kein Ortsteil,cemetery,15.0,1
+Sasbach am Kaiserstuhl,kein Ortsteil,commercial,5.0,1
+Sasbach am Kaiserstuhl,kein Ortsteil,commercial,20.0,7
+Sasbach am Kaiserstuhl,kein Ortsteil,commercial,25.0,18
+Sasbach am Kaiserstuhl,kein Ortsteil,commercial,30.0,7
+Sasbach am Kaiserstuhl,kein Ortsteil,farmyard,15.0,2
+Sasbach am Kaiserstuhl,kein Ortsteil,farmyard,20.0,2
+Sasbach am Kaiserstuhl,kein Ortsteil,farmyard,25.0,2
+Sasbach am Kaiserstuhl,kein Ortsteil,farmyard,120.0,1
+Sasbach am Kaiserstuhl,kein Ortsteil,industrial,20.0,1
+Sasbach am Kaiserstuhl,kein Ortsteil,industrial,25.0,1
+Sasbach am Kaiserstuhl,kein Ortsteil,meadow,25.0,1
+Sasbach am Kaiserstuhl,kein Ortsteil,residential,5.0,32
+Sasbach am Kaiserstuhl,kein Ortsteil,residential,10.0,76
+Sasbach am Kaiserstuhl,kein Ortsteil,residential,15.0,168
+Sasbach am Kaiserstuhl,kein Ortsteil,residential,20.0,147
+Sasbach am Kaiserstuhl,kein Ortsteil,residential,25.0,110
+Sasbach am Kaiserstuhl,kein Ortsteil,residential,30.0,42
+Sasbach am Kaiserstuhl,kein Ortsteil,unbekannt,10.0,2
+Sasbach am Kaiserstuhl,kein Ortsteil,unbekannt,40.0,6
+Sexau,kein Ortsteil,commercial,40.0,9
+Sexau,kein Ortsteil,construction,30.0,1
+Sexau,kein Ortsteil,farmyard,15.0,1
+Sexau,kein Ortsteil,farmyard,25.0,1
+Sexau,kein Ortsteil,farmyard,30.0,1
+Sexau,kein Ortsteil,farmyard,40.0,3
+Sexau,kein Ortsteil,farmyard,120.0,32
+Sexau,kein Ortsteil,industrial,40.0,5
+Sexau,kein Ortsteil,industrial,120.0,27
+Sexau,kein Ortsteil,recreation_ground,20.0,2
+Sexau,kein Ortsteil,residential,5.0,53
+Sexau,kein Ortsteil,residential,10.0,141
+Sexau,kein Ortsteil,residential,15.0,144
+Sexau,kein Ortsteil,residential,20.0,126
+Sexau,kein Ortsteil,residential,25.0,165
+Sexau,kein Ortsteil,residential,30.0,124
+Sexau,kein Ortsteil,residential,40.0,112
+Sexau,kein Ortsteil,residential,120.0,25
+Sexau,kein Ortsteil,retail,40.0,1
+Sexau,kein Ortsteil,unbekannt,25.0,1
+Sexau,kein Ortsteil,unbekannt,120.0,1
+Simonswald,Altsimonswald,farmyard,30.0,1
+Simonswald,Altsimonswald,farmyard,40.0,1
+Simonswald,Altsimonswald,farmyard,120.0,19
+Simonswald,Altsimonswald,forest,120.0,2
+Simonswald,Altsimonswald,industrial,120.0,3
+Simonswald,Altsimonswald,meadow,120.0,2
+Simonswald,Altsimonswald,orchard,10.0,1
+Simonswald,Altsimonswald,recreation_ground,5.0,3
+Simonswald,Altsimonswald,residential,5.0,9
+Simonswald,Altsimonswald,residential,10.0,39
+Simonswald,Altsimonswald,residential,15.0,27
+Simonswald,Altsimonswald,residential,20.0,28
+Simonswald,Altsimonswald,residential,25.0,18
+Simonswald,Altsimonswald,residential,30.0,14
+Simonswald,Altsimonswald,residential,40.0,18
+Simonswald,Altsimonswald,residential,120.0,119
+Simonswald,Altsimonswald,village_green,10.0,1
+Simonswald,Haslachsimonswald,farmyard,25.0,4
+Simonswald,Haslachsimonswald,farmyard,40.0,7
+Simonswald,Haslachsimonswald,farmyard,120.0,9
+Simonswald,Haslachsimonswald,meadow,40.0,1
+Simonswald,Haslachsimonswald,meadow,120.0,4
+Simonswald,Haslachsimonswald,residential,20.0,34
+Simonswald,Haslachsimonswald,residential,25.0,16
+Simonswald,Haslachsimonswald,residential,40.0,12
+Simonswald,Haslachsimonswald,residential,120.0,16
+Simonswald,Obersimonswald,farmyard,120.0,15
+Simonswald,Obersimonswald,grass,120.0,2
+Simonswald,Obersimonswald,industrial,120.0,12
+Simonswald,Obersimonswald,meadow,120.0,11
+Simonswald,Obersimonswald,recreation_ground,120.0,4
+Simonswald,Obersimonswald,residential,120.0,207
+Simonswald,Obersimonswald,unbekannt,120.0,4
+Simonswald,Untersimonswald,farmyard,25.0,2
+Simonswald,Untersimonswald,farmyard,30.0,3
+Simonswald,Untersimonswald,farmyard,40.0,6
+Simonswald,Untersimonswald,farmyard,120.0,6
+Simonswald,Untersimonswald,forest,120.0,1
+Simonswald,Untersimonswald,industrial,30.0,3
+Simonswald,Untersimonswald,industrial,40.0,1
+Simonswald,Untersimonswald,meadow,10.0,1
+Simonswald,Untersimonswald,meadow,25.0,1
+Simonswald,Untersimonswald,meadow,120.0,1
+Simonswald,Untersimonswald,residential,10.0,28
+Simonswald,Untersimonswald,residential,15.0,34
+Simonswald,Untersimonswald,residential,20.0,16
+Simonswald,Untersimonswald,residential,25.0,25
+Simonswald,Untersimonswald,residential,30.0,11
+Simonswald,Untersimonswald,residential,40.0,20
+Simonswald,Untersimonswald,residential,120.0,61
+Simonswald,Untersimonswald,unbekannt,40.0,1
+Simonswald,Wildgutach,farmyard,120.0,7
+Simonswald,Wildgutach,industrial,120.0,1
+Simonswald,Wildgutach,meadow,120.0,5
+Simonswald,Wildgutach,residential,120.0,22
+Teningen,Heimbach,farmyard,120.0,2
+Teningen,Heimbach,residential,120.0,356
+Teningen,Heimbach,unbekannt,120.0,1
+Teningen,Köndringen,cemetery,15.0,2
+Teningen,Köndringen,commercial,15.0,2
+Teningen,Köndringen,commercial,20.0,16
+Teningen,Köndringen,commercial,25.0,10
+Teningen,Köndringen,commercial,30.0,3
+Teningen,Köndringen,industrial,20.0,13
+Teningen,Köndringen,industrial,25.0,9
+Teningen,Köndringen,industrial,30.0,5
+Teningen,Köndringen,recreation_ground,25.0,1
+Teningen,Köndringen,residential,5.0,61
+Teningen,Köndringen,residential,10.0,180
+Teningen,Köndringen,residential,15.0,245
+Teningen,Köndringen,residential,20.0,161
+Teningen,Köndringen,residential,25.0,56
+Teningen,Köndringen,residential,30.0,3
+Teningen,Köndringen,residential,120.0,60
+Teningen,Köndringen,unbekannt,15.0,1
+Teningen,Köndringen,unbekannt,120.0,1
+Teningen,Nimburg,commercial,15.0,2
+Teningen,Nimburg,commercial,25.0,10
+Teningen,Nimburg,commercial,30.0,1
+Teningen,Nimburg,farmyard,25.0,1
+Teningen,Nimburg,forest,15.0,1
+Teningen,Nimburg,industrial,20.0,2
+Teningen,Nimburg,industrial,25.0,36
+Teningen,Nimburg,industrial,30.0,36
+Teningen,Nimburg,railway,30.0,1
+Teningen,Nimburg,recreation_ground,15.0,1
+Teningen,Nimburg,recreation_ground,20.0,1
+Teningen,Nimburg,recreation_ground,30.0,1
+Teningen,Nimburg,residential,5.0,95
+Teningen,Nimburg,residential,10.0,220
+Teningen,Nimburg,residential,15.0,189
+Teningen,Nimburg,residential,20.0,3
+Teningen,Nimburg,residential,40.0,32
+Teningen,Nimburg,residential,120.0,83
+Teningen,Teningen (Kernort),cemetery,15.0,1
+Teningen,Teningen (Kernort),commercial,15.0,13
+Teningen,Teningen (Kernort),commercial,20.0,20
+Teningen,Teningen (Kernort),commercial,30.0,10
+Teningen,Teningen (Kernort),commercial,40.0,14
+Teningen,Teningen (Kernort),commercial,120.0,2
+Teningen,Teningen (Kernort),farmyard,30.0,3
+Teningen,Teningen (Kernort),farmyard,120.0,2
+Teningen,Teningen (Kernort),industrial,15.0,1
+Teningen,Teningen (Kernort),industrial,20.0,2
+Teningen,Teningen (Kernort),industrial,25.0,4
+Teningen,Teningen (Kernort),recreation_ground,10.0,2
+Teningen,Teningen (Kernort),residential,5.0,126
+Teningen,Teningen (Kernort),residential,10.0,653
+Teningen,Teningen (Kernort),residential,15.0,444
+Teningen,Teningen (Kernort),residential,20.0,222
+Teningen,Teningen (Kernort),residential,25.0,48
+Teningen,Teningen (Kernort),residential,120.0,1
+Teningen,Teningen (Kernort),retail,20.0,3
+Teningen,Teningen (Kernort),retail,25.0,14
+Teningen,Teningen (Kernort),unbekannt,15.0,1
+Teningen,kein Ortsteil,commercial,20.0,1
+Teningen,kein Ortsteil,industrial,25.0,2
+Vörstetten,kein Ortsteil,commercial,15.0,1
+Vörstetten,kein Ortsteil,commercial,20.0,36
+Vörstetten,kein Ortsteil,commercial,25.0,20
+Vörstetten,kein Ortsteil,farmyard,40.0,2
+Vörstetten,kein Ortsteil,farmyard,120.0,3
+Vörstetten,kein Ortsteil,industrial,20.0,1
+Vörstetten,kein Ortsteil,industrial,25.0,7
+Vörstetten,kein Ortsteil,residential,5.0,67
+Vörstetten,kein Ortsteil,residential,10.0,106
+Vörstetten,kein Ortsteil,residential,15.0,179
+Vörstetten,kein Ortsteil,residential,20.0,212
+Vörstetten,kein Ortsteil,residential,25.0,133
+Vörstetten,kein Ortsteil,residential,30.0,75
+Vörstetten,kein Ortsteil,residential,120.0,41
+Vörstetten,kein Ortsteil,unbekannt,5.0,1
+Waldkirch,Buchholz,education,10.0,2
+Waldkirch,Buchholz,farmyard,15.0,1
+Waldkirch,Buchholz,farmyard,20.0,1
+Waldkirch,Buchholz,forest,15.0,1
+Waldkirch,Buchholz,greenhouse_horticulture,15.0,3
+Waldkirch,Buchholz,greenhouse_horticulture,20.0,1
+Waldkirch,Buchholz,industrial,25.0,1
+Waldkirch,Buchholz,industrial,30.0,14
+Waldkirch,Buchholz,industrial,40.0,17
+Waldkirch,Buchholz,meadow,15.0,1
+Waldkirch,Buchholz,residential,5.0,121
+Waldkirch,Buchholz,residential,10.0,182
+Waldkirch,Buchholz,residential,15.0,109
+Waldkirch,Buchholz,residential,20.0,41
+Waldkirch,Buchholz,residential,25.0,35
+Waldkirch,Buchholz,residential,30.0,63
+Waldkirch,Buchholz,residential,40.0,73
+Waldkirch,Buchholz,unbekannt,5.0,1
+Waldkirch,Buchholz,unbekannt,20.0,2
+Waldkirch,Buchholz,unbekannt,25.0,2
+Waldkirch,Buchholz,unbekannt,40.0,5
+Waldkirch,Kollnau,cemetery,10.0,1
+Waldkirch,Kollnau,farmyard,15.0,1
+Waldkirch,Kollnau,farmyard,30.0,4
+Waldkirch,Kollnau,farmyard,40.0,6
+Waldkirch,Kollnau,farmyard,120.0,19
+Waldkirch,Kollnau,forest,25.0,1
+Waldkirch,Kollnau,forest,120.0,1
+Waldkirch,Kollnau,industrial,10.0,6
+Waldkirch,Kollnau,industrial,15.0,27
+Waldkirch,Kollnau,industrial,20.0,28
+Waldkirch,Kollnau,industrial,25.0,11
+Waldkirch,Kollnau,industrial,30.0,3
+Waldkirch,Kollnau,industrial,40.0,7
+Waldkirch,Kollnau,railway,15.0,2
+Waldkirch,Kollnau,residential,5.0,118
+Waldkirch,Kollnau,residential,10.0,254
+Waldkirch,Kollnau,residential,15.0,255
+Waldkirch,Kollnau,residential,20.0,220
+Waldkirch,Kollnau,residential,25.0,67
+Waldkirch,Kollnau,residential,30.0,7
+Waldkirch,Kollnau,unbekannt,5.0,1
+Waldkirch,Kollnau,unbekannt,25.0,2
+Waldkirch,Kollnau,unbekannt,30.0,1
+Waldkirch,Siensbach,farmland,120.0,4
+Waldkirch,Siensbach,farmyard,120.0,11
+Waldkirch,Siensbach,industrial,25.0,6
+Waldkirch,Siensbach,industrial,30.0,4
+Waldkirch,Siensbach,residential,25.0,2
+Waldkirch,Siensbach,residential,30.0,8
+Waldkirch,Siensbach,residential,40.0,47
+Waldkirch,Siensbach,residential,120.0,134
+Waldkirch,Siensbach,unbekannt,25.0,1
+Waldkirch,Siensbach,unbekannt,120.0,3
+Waldkirch,Suggental,farmyard,120.0,9
+Waldkirch,Suggental,residential,25.0,16
+Waldkirch,Suggental,residential,30.0,32
+Waldkirch,Suggental,residential,40.0,44
+Waldkirch,Waldkirch (Kernstadt),brownfield,15.0,2
+Waldkirch,Waldkirch (Kernstadt),cemetery,20.0,1
+Waldkirch,Waldkirch (Kernstadt),commercial,15.0,3
+Waldkirch,Waldkirch (Kernstadt),commercial,20.0,5
+Waldkirch,Waldkirch (Kernstadt),commercial,25.0,2
+Waldkirch,Waldkirch (Kernstadt),construction,5.0,3
+Waldkirch,Waldkirch (Kernstadt),construction,10.0,1
+Waldkirch,Waldkirch (Kernstadt),construction,15.0,2
+Waldkirch,Waldkirch (Kernstadt),farmyard,25.0,1
+Waldkirch,Waldkirch (Kernstadt),farmyard,30.0,1
+Waldkirch,Waldkirch (Kernstadt),farmyard,40.0,1
+Waldkirch,Waldkirch (Kernstadt),farmyard,120.0,21
+Waldkirch,Waldkirch (Kernstadt),forest,30.0,1
+Waldkirch,Waldkirch (Kernstadt),greenhouse_horticulture,20.0,1
+Waldkirch,Waldkirch (Kernstadt),industrial,15.0,8
+Waldkirch,Waldkirch (Kernstadt),industrial,20.0,20
+Waldkirch,Waldkirch (Kernstadt),industrial,25.0,40
+Waldkirch,Waldkirch (Kernstadt),industrial,30.0,20
+Waldkirch,Waldkirch (Kernstadt),industrial,40.0,3
+Waldkirch,Waldkirch (Kernstadt),meadow,40.0,2
+Waldkirch,Waldkirch (Kernstadt),meadow,120.0,1
+Waldkirch,Waldkirch (Kernstadt),railway,15.0,2
+Waldkirch,Waldkirch (Kernstadt),recreation_ground,10.0,3
+Waldkirch,Waldkirch (Kernstadt),recreation_ground,15.0,2
+Waldkirch,Waldkirch (Kernstadt),recreation_ground,20.0,1
+Waldkirch,Waldkirch (Kernstadt),recreation_ground,120.0,1
+Waldkirch,Waldkirch (Kernstadt),residential,5.0,274
+Waldkirch,Waldkirch (Kernstadt),residential,10.0,811
+Waldkirch,Waldkirch (Kernstadt),residential,15.0,515
+Waldkirch,Waldkirch (Kernstadt),residential,20.0,397
+Waldkirch,Waldkirch (Kernstadt),residential,25.0,252
+Waldkirch,Waldkirch (Kernstadt),residential,30.0,102
+Waldkirch,Waldkirch (Kernstadt),residential,40.0,17
+Waldkirch,Waldkirch (Kernstadt),residential,120.0,17
+Waldkirch,Waldkirch (Kernstadt),unbekannt,15.0,2
+Waldkirch,Waldkirch (Kernstadt),unbekannt,20.0,1
+Waldkirch,Waldkirch (Kernstadt),unbekannt,25.0,1
+Waldkirch,Waldkirch (Kernstadt),unbekannt,30.0,1
+Waldkirch,kein Ortsteil,residential,25.0,1
+Waldkirch,kein Ortsteil,unbekannt,15.0,1
+Weisweil,kein Ortsteil,commercial,20.0,3
+Weisweil,kein Ortsteil,commercial,25.0,4
+Weisweil,kein Ortsteil,commercial,30.0,14
+Weisweil,kein Ortsteil,farmyard,30.0,1
+Weisweil,kein Ortsteil,farmyard,120.0,3
+Weisweil,kein Ortsteil,industrial,25.0,1
+Weisweil,kein Ortsteil,industrial,30.0,2
+Weisweil,kein Ortsteil,industrial,40.0,1
+Weisweil,kein Ortsteil,residential,5.0,36
+Weisweil,kein Ortsteil,residential,10.0,52
+Weisweil,kein Ortsteil,residential,15.0,219
+Weisweil,kein Ortsteil,residential,20.0,244
+Weisweil,kein Ortsteil,residential,25.0,51
+Weisweil,kein Ortsteil,residential,30.0,1
+Weisweil,kein Ortsteil,residential,40.0,1
+Weisweil,kein Ortsteil,unbekannt,10.0,2
+Weisweil,kein Ortsteil,unbekannt,120.0,1
+Winden im Elztal,kein Ortsteil,commercial,15.0,1
+Winden im Elztal,kein Ortsteil,commercial,20.0,7
+Winden im Elztal,kein Ortsteil,commercial,25.0,8
+Winden im Elztal,kein Ortsteil,farmyard,10.0,6
+Winden im Elztal,kein Ortsteil,farmyard,15.0,3
+Winden im Elztal,kein Ortsteil,farmyard,20.0,13
+Winden im Elztal,kein Ortsteil,farmyard,25.0,12
+Winden im Elztal,kein Ortsteil,farmyard,30.0,7
+Winden im Elztal,kein Ortsteil,farmyard,40.0,12
+Winden im Elztal,kein Ortsteil,farmyard,120.0,21
+Winden im Elztal,kein Ortsteil,industrial,15.0,3
+Winden im Elztal,kein Ortsteil,industrial,20.0,12
+Winden im Elztal,kein Ortsteil,industrial,25.0,4
+Winden im Elztal,kein Ortsteil,meadow,15.0,1
+Winden im Elztal,kein Ortsteil,meadow,20.0,1
+Winden im Elztal,kein Ortsteil,recreation_ground,15.0,1
+Winden im Elztal,kein Ortsteil,recreation_ground,20.0,3
+Winden im Elztal,kein Ortsteil,residential,5.0,80
+Winden im Elztal,kein Ortsteil,residential,10.0,241
+Winden im Elztal,kein Ortsteil,residential,15.0,171
+Winden im Elztal,kein Ortsteil,residential,20.0,77
+Winden im Elztal,kein Ortsteil,residential,25.0,66
+Winden im Elztal,kein Ortsteil,residential,30.0,15
+Winden im Elztal,kein Ortsteil,residential,40.0,5
+Winden im Elztal,kein Ortsteil,unbekannt,20.0,1
+Wyhl,kein Ortsteil,allotments,40.0,2
+Wyhl,kein Ortsteil,cemetery,25.0,1
+Wyhl,kein Ortsteil,commercial,10.0,3
+Wyhl,kein Ortsteil,commercial,15.0,26
+Wyhl,kein Ortsteil,commercial,20.0,12
+Wyhl,kein Ortsteil,commercial,25.0,14
+Wyhl,kein Ortsteil,commercial,30.0,3
+Wyhl,kein Ortsteil,farmyard,20.0,1
+Wyhl,kein Ortsteil,farmyard,25.0,1
+Wyhl,kein Ortsteil,farmyard,30.0,2
+Wyhl,kein Ortsteil,farmyard,40.0,6
+Wyhl,kein Ortsteil,farmyard,120.0,4
+Wyhl,kein Ortsteil,industrial,10.0,2
+Wyhl,kein Ortsteil,industrial,25.0,1
+Wyhl,kein Ortsteil,meadow,10.0,1
+Wyhl,kein Ortsteil,recreation_ground,5.0,1
+Wyhl,kein Ortsteil,recreation_ground,10.0,4
+Wyhl,kein Ortsteil,recreation_ground,40.0,1
+Wyhl,kein Ortsteil,residential,5.0,65
+Wyhl,kein Ortsteil,residential,10.0,219
+Wyhl,kein Ortsteil,residential,15.0,318
+Wyhl,kein Ortsteil,residential,20.0,348
+Wyhl,kein Ortsteil,residential,25.0,138
+Wyhl,kein Ortsteil,residential,30.0,8
